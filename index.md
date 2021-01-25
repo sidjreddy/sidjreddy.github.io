@@ -1,4 +1,3 @@
-## Welcome to the homepage of Dr. Siddhartha Reddy "Sid J" Jonnalagadda!
 While this page is under construction, feel free to visit:
 1. https://www.linkedin.com/in/sidjreddy
 1. http://scholar.google.com/citations?user=9AHQRLkAAAAJ&hl=en

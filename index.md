@@ -1,6 +1,4 @@
-While this page is under construction, feel free to visit:
-1. https://www.linkedin.com/in/sidjreddy
-1. http://scholar.google.com/citations?user=9AHQRLkAAAAJ&hl=en
+While this page is under construction, feel free to visit my [LinkedIn](https://www.linkedin.com/in/sidjreddy) or [Scholar](http://scholar.google.com/citations?user=9AHQRLkAAAAJ&hl=en) profiles.
 
 <!-- You can use the [editor on GitHub](https://github.com/sidjreddy/sidjreddy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
